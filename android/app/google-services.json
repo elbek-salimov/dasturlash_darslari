@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40209315604",
+    "project_id": "dasturlash-darslari",
+    "storage_bucket": "dasturlash-darslari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40209315604:android:a83ca542d0f98585e0f401",
+        "android_client_info": {
+          "package_name": "com.example.dasturlash_darslari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40209315604-0c6aurjvk1mpo5t75a5hj1qaum2g3nrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAui7_4OClJaOkXv7t6J_VeVLvArVs9W80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40209315604-0c6aurjvk1mpo5t75a5hj1qaum2g3nrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
